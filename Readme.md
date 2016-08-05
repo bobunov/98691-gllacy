@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Владимир Бобунов](https://up.htmlacademy.ru/htmlcss/14/user/98691).
-* Наставник: Антон Попов.
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
