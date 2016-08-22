@@ -9,3 +9,99 @@ body{
 h1, h2{
     font-weight: bold;
 }
+
+
+.wrapper{
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.header_logo{
+    float: left;
+    width: 156px;
+    
+}
+
+nav{
+    width:670px;
+    float: left;
+}
+.header_user_block{
+    float: right;
+    width: 370px;
+}
+
+
+.header_contact{
+    width:160px;
+    float:right;
+}
+.header_slider{
+    width: 1200px;
+}
+
+.header_slider_promo{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.breadcrumbs{
+    width: 1200px;
+    float: left;
+}
+
+.filter_content{
+    width: 850px;
+}
+.content_promo{
+    float:left;
+    width: 560px;
+    margin-bottom: 40px;
+    margin-right: 25px;
+    
+}
+
+.content_catalog_product{
+    width: 260px;
+    float: right;
+    margin-right:25px;
+    margin-bottom: 50px;
+}
+
+.content_text ul{
+    width: 560px;
+    float: left;
+}
+
+.content_text{
+    margin-bottom: 40px;
+}
+
+.contact_form{
+    width:290px;
+    float: right;
+}
+
+footer{
+    margin-top:20px;
+}
+.footer_socio{
+    width: 260px;
+    float: left;
+}
+
+.footer_nav{
+    width:560;
+    float:left;
+    
+}
+
+.writing{
+    width:260px;
+    float: right;
+}
